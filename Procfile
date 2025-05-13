@@ -1,1 +1,1 @@
-web: gunicorn karlblomquistdjango.wsgi
+web: gunicorn django_project.wsgi
